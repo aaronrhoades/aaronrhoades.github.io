@@ -6,3 +6,6 @@
   overflow: hidden;
 }
 /*end bootstrap adjustments*/
+.site-footer {
+  background-color: #eee; 
+}
