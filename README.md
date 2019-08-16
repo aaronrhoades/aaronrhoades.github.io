@@ -1,2 +1,4 @@
 # aaronrhoades.github.io
-My GitHub Page
+Welcome to the source code for my GitHub page. The purpose of this page is to display my Portfolio.
+
+[View The Site](https://aaronrhoades.github.io)
