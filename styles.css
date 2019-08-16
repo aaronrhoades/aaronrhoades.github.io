@@ -2,4 +2,7 @@
 .card-img-top {
     box-shadow: 0 4px 9px -7px;
 }
+.card {
+  overflow: hidden;
+}
 /*end bootstrap adjustments*/
